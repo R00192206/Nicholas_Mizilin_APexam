@@ -17,3 +17,10 @@ h1	{
 	height: 86px;
 	line-height: 250%;
 }
+
+footer {
+	font-family: Georgia, "Times new Roman", serif;
+	font-size: 0.8em;
+	font-style: italic;
+	text-align: center;
+}
