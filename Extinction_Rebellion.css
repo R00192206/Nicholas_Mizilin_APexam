@@ -1,0 +1,19 @@
+body	{
+	font-size: 100%;
+	text-indent: 2.5em;
+	width: 80%;
+	min-width: 600px;
+	margin: auto;
+	padding: 50px;
+	font-size: 120%;
+} 
+
+h1	{
+	text-indent: 140px;
+	font-family: Georgia, "Times new Roman", serif;
+	background-image: linear-gradient(to bottom, #9ff9d2, #8df4b2, #88ec8a, #8fe35c, #9cd816);
+	color: #5c743d;
+	margin-bottom: 0;
+	height: 86px;
+	line-height: 250%;
+}
